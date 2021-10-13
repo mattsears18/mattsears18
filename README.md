@@ -1,6 +1,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/ddad2840-c8ce-4174-b584-e390bdb7f01d.svg)](https://wakatime.com/@mattsears18)
-[![LeetCode user mattsears18](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmattsears18&logo=leetcode&logoColor=yellow)](https://leetcode.com/mattsears18/)
+[![LeetCode user mattsears18](https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmattsears18&logo=leetcode&logoColor=yellow)](https://leetcode.com/mattsears18/)
 ![](https://komarev.com/ghpvc/?username=mattsears18&color=green)
 
 
