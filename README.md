@@ -4,5 +4,4 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mattsears18&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattsears18&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mattsears18&layout=compact)
