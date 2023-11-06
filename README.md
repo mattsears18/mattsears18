@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/ddad2840-c8ce-4174-b584-e390bdb7f01d.svg)](https://wakatime.com/@mattsears18) &nbsp;&nbsp; SINCE MAY 6 2019
+[![wakatime](https://wakatime.com/badge/user/ddad2840-c8ce-4174-b584-e390bdb7f01d.svg)](https://wakatime.com/@mattsears18) &nbsp;&nbsp; SINCE MAY 6, 2019
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/mattsears18?theme=auto&font=baloo)](https://leetcode.com/mattsears18)
 
